@@ -1,0 +1,30 @@
+/*Kevin-Escalante CSS document*/
+
+body{
+	background: blue;
+	color: white;
+}
+
+a:link, a:visited, a:active {
+		color:white;
+}
+a:hover{
+	font-size:150%
+	background:green;
+	font-family:monospace;
+	color:yellow;
+	text-decoration:none;
+}
+
+.caution{
+	font-size:200%;
+	color:Red;
+}
+ul{
+	background:red;
+}
+li{
+	font-size: 16pt;
+	border: solid;
+	border-widthn: thin;
+}
